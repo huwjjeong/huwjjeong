@@ -1,7 +1,7 @@
 ## Woojin's Curriculum Vitae
 
 
-### WOOJIN JEONG 
+### JEONG WOO JIN
 Email : huwjjeong@gmail.com </br>
 Github : [https://github.com/woojinAI  ](https://github.com/huwjjeong/huwjjeong.git) </br>
 ##
