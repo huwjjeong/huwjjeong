@@ -21,6 +21,7 @@ GDSC (AI) hongik (Sep. 2024 - Dec. 2024) </br>
 Data Analysis with Generative AI (Jan. 2025)
 ##
 ### Projects
-AI-based diet creation program (Mar. 2025 - pre) </br>
-CNN, LSTM-based stock price prediction program (Jul. 2025 - pre)
+Poison Mushroom Classification project (Jul. 2024 - Dec. 2024) </br>
+AI-based diet creation project (Mar. 2025 - pre) </br>
+CNN, LSTM-based stock price prediction project (Jul. 2025 - pre)
 
