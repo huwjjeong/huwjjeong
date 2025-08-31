@@ -17,7 +17,7 @@ Github : [https://github.com/woojinAI  ](https://github.com/huwjjeong/huwjjeong.
 Hongik University, B.S. in Computer Engineering 
 ##
 ### Experience
-gdsc hongik (Sep. 2024 - Dec. 2024) </br>
+GDSC (AI) hongik (Sep. 2024 - Dec. 2024) </br>
 Data Analysis with Generative AI (Jan. 2025)
 ##
 ### Projects
