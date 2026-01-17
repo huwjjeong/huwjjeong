@@ -58,4 +58,5 @@ Github : https://github.com/huwjjeong
 *Sep. 2025 – Feb. 2026*  
 - Frequency-aware domain adaptation for 3D medical image segmentation  
 - Built on 3D MedSAM architecture with dual-path frequency enhancement  
-- **Accepted for oral presentation at KICS Winter Conference 2025**
+- **Accepted at KICS Winter Conference 2026**
+
